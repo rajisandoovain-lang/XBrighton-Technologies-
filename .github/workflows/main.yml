@@ -1,1 +1,7 @@
 
+git clone https://github.com/rajisandoo/XBrighton-fashion-marketplace.git
+cd XBrighton-fashion-marketplace
+# then drag your server.js and package.json into this folder
+git add .
+git commit -m "Add XBrighton market API"
+git push
